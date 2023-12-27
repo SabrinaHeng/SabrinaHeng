@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Sabrina Heng</h1>
 Hi, my name is Sabrina. I am 19 years old and come from Melaka,Malaysia.
-Currently, I am a first year student persuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia(UTM).I really interested in programming and enjoying uni life now !
+
+Currently, I am a first year student persuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia(UTM).
+
+I really interested in programming and enjoying uni life now !
 
 <h3>About Me : </h3>
 
