@@ -5,13 +5,20 @@ Currently, I am a first year student persuing a degree in Computer Science (Data
 
 I really interested in programming and enjoying uni life now !
 
-<h3>About Me : </h3>
+<h3>💁About Me : </h3>
 
 - 🌍 Malaysian girl 
 
 - 🎓 currently studying at **Universiti Teknologi Malaysia**
 
 - 📫 reach me at **sabrinaheng115@gmail.com**
+
+<h3>🌱 I’m currently learning :</h3>
+
+* SECP1513 - Technology and Information System
+* SECJ1013 - Programming Technique 1
+* SECI1013 - Discreate Structure
+* SECR1013 - Digital Logic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
