@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Sabrina Heng</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h1>Hi 👋, I'm Sabrina Heng</h1>
+Hi, my name is Sabrina. I am 19 years old and come from Melaka,Malaysia.
+Currently, I am a first year student persuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia(UTM).I really interested in programming and enjoying uni life now !
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabrinaheng" alt="sabrinaheng" /></a> </p>
+<h3>About Me : </h3>
 
-- 🔭 I’m currently studying at **Universiti Teknologi Malaysia**
+- 🌍 Malaysian girl 
 
-- 📫 How to reach me **sabrinaheng115@gmail.com**
+- 🎓 currently studying at **Universiti Teknologi Malaysia**
+
+- 📫 reach me at **sabrinaheng115@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinaheng&show_icons=true&locale=en" alt="sabrinaheng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinaheng&" alt="sabrinaheng" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabrinaheng" alt="sabrinaheng" /></a> </p>
