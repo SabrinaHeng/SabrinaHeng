@@ -13,7 +13,7 @@ I really interested in programming and enjoying uni life now !
 
 - 🌍 Malaysian girl 
 
-- 🎓 currently studying at **Universiti Teknologi Malaysia**
+- 🎓 currently studying at [**Universiti Teknologi Malaysia**](https://www.utm.my/)
 
 - 📫 reach me at **sabrinaheng115@gmail.com**
 
