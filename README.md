@@ -19,7 +19,7 @@ I really interested in programming and enjoying uni life now !
 
 <h3>🌱 I’m currently learning :</h3>
 
-* SECP1513 - Technology and Information System
+* SECP1513 - [Technology and Information System](https://github.com/SabrinaHeng/Technology-Information-System.git)
 * SECJ1013 - Programming Technique 1
 * SECI1013 - Discreate Structure
 * SECR1013 - Digital Logic
