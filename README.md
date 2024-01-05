@@ -1,4 +1,7 @@
 <h1>Hi 👋, I'm Sabrina Heng</h1>
+<p align="center">
+<img width=”200” height=”200” src="https://github.com/SabrinaHeng/SabrinaHeng/blob/main/Make%20your%20README.png" alt=”my banner”>
+</p>
 Hi, my name is Sabrina. I am 19 years old and come from Melaka,Malaysia.
 
 Currently, I am a first year student persuing a degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia(UTM).
