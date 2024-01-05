@@ -21,7 +21,7 @@ I really interested in programming and enjoying uni life now !
 
 * SECP1513 - [Technology and Information System](https://github.com/SabrinaHeng/Technology-Information-System.git)
 * SECJ1013 - [Programming Technique 1](https://github.com/SabrinaHeng/Programming-Technique-1.git)
-* SECI1013 - Discreate Structure
+* SECI1013 - [Discrete Structure](https://github.com/SabrinaHeng/Discrete-Structure.git)
 * SECR1013 - Digital Logic
 
 <h3 align="left">Connect with me:</h3>
