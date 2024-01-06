@@ -19,7 +19,7 @@ I really interested in programming and enjoying uni life now !
 
 <h2>🌱 Course </h2>
 
-Year 1
+**Year 1**
 * SECP1513 - [Technology and Information System](https://github.com/SabrinaHeng/Technology-Information-System.git)
 * SECJ1013 - [Programming Technique 1](https://github.com/SabrinaHeng/Programming-Technique-1.git)
 * SECI1013 - [Discrete Structure](https://github.com/SabrinaHeng/Discrete-Structure.git)
