@@ -9,7 +9,7 @@ Currently, I am a first year student persuing a degree in Computer Science (Data
 
 I really interested in programming and enjoying uni life now !
 
-<h3>💁About Me : </h3>
+<h2>💁About Me  </h2>
 
 - 🌍 Malaysian girl 
 
@@ -17,8 +17,9 @@ I really interested in programming and enjoying uni life now !
 
 - 📫 reach me at **sabrinaheng115@gmail.com**
 
-<h3>🌱 I’m currently learning :</h3>
+<h2>🌱 Course </h2>
 
+Year 1
 * SECP1513 - [Technology and Information System](https://github.com/SabrinaHeng/Technology-Information-System.git)
 * SECJ1013 - [Programming Technique 1](https://github.com/SabrinaHeng/Programming-Technique-1.git)
 * SECI1013 - [Discrete Structure](https://github.com/SabrinaHeng/Discrete-Structure.git)
