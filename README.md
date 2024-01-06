@@ -17,6 +17,8 @@ I really interested in programming and enjoying uni life now !
 
 - 📫 reach me at **sabrinaheng115@gmail.com**
 
+- [My E-Portfolio](https://sabrina-heng1018.mystrikingly.com/)
+
 <h2>🌱 Course </h2>
 
 **Year 1**
