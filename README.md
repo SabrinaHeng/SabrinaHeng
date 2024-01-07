@@ -11,7 +11,7 @@ I really interested in programming and enjoying uni life now !
 
 <h2>💁About Me  </h2>
 
-- 🌍 Malaysian girl 
+- 🌍 Malaysian girl
 
 - 🎓 currently studying at [**Universiti Teknologi Malaysia**](https://www.utm.my/)
 
