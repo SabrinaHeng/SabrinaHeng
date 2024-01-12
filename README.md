@@ -40,5 +40,3 @@ I really interested in programming and enjoying uni life now !
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinaheng&show_icons=true&locale=en" alt="sabrinaheng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinaheng&" alt="sabrinaheng" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabrinaheng" alt="sabrinaheng" /></a> </p>
