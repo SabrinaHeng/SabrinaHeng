@@ -19,9 +19,24 @@ I really interested in programming and enjoying uni life now !
 
 - [My E-Portfolio](https://sabrinaheng.github.io/index.html)
 
-<h2>🌱 Course </h2>
+<h2>🎓 Education </h2>
+<b>SMJK YOK BIN , Melaka (2017 - 2021)</b><br>
 
-**Year 1**
+*  6A 4B in SPM
+*  Participate in Malaysia Future Leadership School in year 2021
+*  Commitee of Club Kebudayaan
+*  Participate in Diabolo Malaysia Open Competition in year 2019
+
+<b>UTM SPACE , Kuala Lumpur (2022-2023)</b>
+* GPA : 3.91 / 4.00
+* Foundation in Physical Science
+
+<b>Universiti Teknologi Malaysia, Skudai(2023 - now) </b>
+* Bachelor of Computer Science (Data Engineering)
+
+<h2>🌱 Courses </h2>
+
+**Year 1 Sem 1**
 * SECP1513 - [Technology and Information System](https://github.com/SabrinaHeng/Technology-Information-System.git)
 * SECJ1013 - [Programming Technique 1](https://github.com/SabrinaHeng/Programming-Technique-1.git)
 * SECI1013 - [Discrete Structure](https://github.com/SabrinaHeng/Discrete-Structure.git)
