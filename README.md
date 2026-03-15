@@ -76,7 +76,18 @@ SPM: **6A 4B**
 
 ---
 ## 🚀 Startup
-🌐 **[KooQ](https://kooq.my)** is an event management and innovation platform focused on building a rich dataset of **student skills and experiences** to power **AI-driven talent matching**.
+
+### 🚀 KooQ
+
+**KooQ** is an event management and innovation platform focused on building a **rich dataset of student skills, achievements, and experiences** to power **AI-driven talent and opportunity matching**.
+
+🌟 **We welcome anyone hosting events!** Your events can help us grow a stronger database, which will eventually be used to help **HRs and organizations match students with opportunities using AI**.  
+
+🌐 [Join us and contribute → KooQ](https://kooq.my)  
+
+**Together, let's build a powerful student talent database for the future!**
+
+---
 
 ## 📂 Featured Projects
 
