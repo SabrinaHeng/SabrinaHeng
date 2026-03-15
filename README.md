@@ -70,9 +70,9 @@ GPA: **3.91 / 4.00**
 SPM: **6A 4B**
 
 **Achievements**
-- Malaysia Future Leadership School (2021)  
-- Committee of Club Kebudayaan  
-- Diabolo Malaysia Open Competition (2019)  
+- **First Place** - UTM Business Innovation Challenge 2.0
+- **Top 8** - ELLM Startup Initiative 2025 
+- **Consolation Prize** - National Micro Enterprise Pitching Competition 
 
 ---
 
