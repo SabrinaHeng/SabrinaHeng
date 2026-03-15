@@ -25,16 +25,6 @@ sabrinaheng115@gmail.com
 
 ---
 
-## 🚀 Current Interests
-
-- Artificial Intelligence Applications  
-- Data Engineering  
-- Full Stack Web Development  
-- Mobile App Development  
-- System Architecture & Design  
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -65,9 +55,6 @@ Bachelor of Computer Science (Data Engineering)
 **UTM SPACE, Kuala Lumpur**  
 Foundation in Physical Science  
 GPA: **3.91 / 4.00**
-
-**SMJK Yok Bin, Melaka**  
-SPM: **6A 4B**
 
 **Achievements**
 - **First Place** - UTM Business Innovation Challenge 2.0
