@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sabrina Heng
 
 🎓 Computer Science (Data Engineering) Student  
-💻 Full Stack Developer | Technoprenuer | Problem Solver  
+💻 Full Stack Developer | Technopreneur | Problem Solver  
 
 ---
 
