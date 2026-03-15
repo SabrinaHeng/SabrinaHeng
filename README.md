@@ -96,13 +96,14 @@ Laravel, React, Inertia.js, MySQL
 
 ### 🧠 Nexscholar
 
-An AI-powered platform designed to match students with scholarships and opportunities based on their achievements, experience, and profiles.
+A digital academic collaboration and research networking platform designed to connect students, researchers, and industry professionals. The platform helps users discover research opportunities, showcase projects, and build collaborations across disciplines through data-driven matching and networking tools.
 
 **Key Features**
-- Intelligent scholarship matching system
-- Student profile and achievement tracking
-- Opportunity management dashboard
-- AI-powered recommendation logic
+- Academic opportunity discovery (research, conferences, postgraduate opportunities)
+- Research networking and collaboration platform
+- Intelligent matching for research partnerships
+- Project and research showcase hub
+- Recruitment channel for postgraduate talent
 
 **Tech Stack**
 Laravel, React, Inertia.js, AI Integration, MySQL
