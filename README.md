@@ -75,24 +75,10 @@ SPM: **6A 4B**
 - **Consolation Prize** - National Micro Enterprise Pitching Competition 
 
 ---
+## 🚀 Startup
+**KooQ** is an event management and innovation platform focused on building a rich dataset of **student skills and experiences** to power **AI-driven talent matching**.
 
 ## 📂 Featured Projects
-
-### 🚀 Catalyst (Team Project)
-
-A collaborative platform developed with a teammate that helps users organize and manage initiatives efficiently.  
-The system focuses on improving workflow collaboration and project visibility.
-
-**Key Features**
-- User authentication and role-based access
-- Project and activity management
-- Dashboard for monitoring progress
-- Responsive web interface
-
-**Tech Stack**
-Laravel, React, Inertia.js, MySQL
-
----
 
 ### 🧠 Nexscholar
 
