@@ -51,10 +51,11 @@ sabrinaheng115@gmail.com
 **Universiti Teknologi Malaysia (UTM)**  
 Bachelor of Computer Science (Data Engineering)  
 2023 – Present  
+CGPA: **3.99 / 4.00**
 
 **UTM SPACE, Kuala Lumpur**  
 Foundation in Physical Science  
-GPA: **3.91 / 4.00**
+CGPA: **3.91 / 4.00**
 
 **Achievements**
 - **First Place** - UTM Business Innovation Challenge 2.0
