@@ -23,7 +23,7 @@
 
 ---
 
-## 👩‍💻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## 👩‍💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🇲🇾 Malaysian girl from Melaka  
 - 🎓 Studying **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM)  
@@ -33,7 +33,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
 
 | 🥇 | **1st Place** — UTM Business Innovation Challenge 2.0 |
 |:---:|---|
