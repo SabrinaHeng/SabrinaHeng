@@ -129,6 +129,7 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
 
+
 `React Native` `Node.js` `Google Maps API` `Startup`
 <br/><br/>
 
@@ -142,6 +143,7 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 A digital collaboration hub connecting students, researchers & industry professionals through **intelligent matching** for research partnerships, conferences, and postgraduate opportunities.
 
 **→ [Nexscholar](https://nexscholar.com/)**
+
 
 `Laravel` `React` `Inertia.js` `AI` `MySQL`
 <br/><br/>
