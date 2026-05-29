@@ -150,9 +150,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 ---
 
-## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
-
-**𝙆𝙤𝙤𝙌**
+## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 - 𝙺𝚘𝚘𝚀
 
 **KooQ** is an event management and innovation platform focused on building a **rich dataset of student skills, achievements, and experiences** to power **AI-driven talent and opportunity matching**.
 
@@ -166,7 +164,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 ## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
-<div align="center">
+<div align="left">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=sabrinaheng&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&count_private=true" />
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinaheng&theme=tokyonight&border_radius=10" />
