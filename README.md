@@ -36,11 +36,8 @@
 ## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
 **1st Place** — UTM Business Innovation Challenge 2.0
-
 **Top 8** — ELLM Startup Initiative 2025
-
 **Consolation Prize** — National Micro Enterprise Pitching Competition
-
 **CGPA 3.99 / 4.00** — Bachelor of Computer Science (Data Engineering)
 
 ---
@@ -54,6 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
