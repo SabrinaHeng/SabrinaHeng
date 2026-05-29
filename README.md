@@ -117,11 +117,11 @@
 ---
 ## 🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-<table style="border: none; border-collapse: collapse; width: 100%">
+<table style="border: none; border-collapse: collapse; width: 100">
 <tr>
-<td style="border: none; padding: 8px; width: 50%" valign="top">
+<td style="border: none; padding: 8; width: 50" valign="top">
 
-### 🚦 𝘕𝘢𝘷𝘈𝘐
+**🚦 𝘕𝘢𝘷𝘈𝘐**
 
 > *AI-powered navigation mobile application.*
 
