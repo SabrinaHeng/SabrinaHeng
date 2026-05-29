@@ -141,7 +141,7 @@
 
 A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems
 
-**→ [kooq.my](https://kooq.my)**
+**→ [NavAI](https://github.com/MahWilson/DeepLLM)**
 
 `React Native` `Node.js` `Google Maps API` `Startup`
 
