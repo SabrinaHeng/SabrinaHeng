@@ -2,8 +2,7 @@
 
 # Hi 👋 I'm Sabrina Heng
 
-🎓 Computer Science (Data Engineering) Student  
-💻 Full Stack Developer | Technopreneur | Problem Solver  
+🎓 Computer Science (Data Engineering) Student 
 
 <a href="https://sabrinaheng.github.io/index.html">
   <img src="https://img.shields.io/badge/🌐_Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
@@ -31,12 +30,11 @@
 
 ## 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗
 
-## Universiti Teknologi Malaysia (UTM)
+### Universiti Teknologi Malaysia (UTM)
 
 **Bachelor of Computer Science (Data Engineering)**
 
 📍 Johor Bahru, Johor
-
 - CGPA: **3.99 / 4.00**
 - Expected Graduation: August 2027
 
@@ -50,7 +48,8 @@
 - Statistics
 - Agile Project Management
 - Data Structures & Algorithms
-
+- 
+---
 ## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
 - **1st Place** — UTM Business Innovation Challenge 2.0
