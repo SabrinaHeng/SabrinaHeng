@@ -169,18 +169,6 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 <div align="center">
 
-## 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=sabrinaheng&show_icons=true&hide_border=true&border_radius=10&bg_color=faf5ff&title_color=7c3aed&icon_color=a78bfa&text_color=6d28d9&count_private=true" />
-
-<img height="150" src="https://streak-stats.demolab.com?user=sabrinaheng&hide_border=true&border_radius=10&background=faf5ff&ring=a78bfa&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=6d28d9&dates=9ca3af&currStreakNum=7c3aed&sideNums=6d28d9" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaheng&layout=donut&hide_border=true&border_radius=10&bg_color=faf5ff&title_color=7c3aed&text_color=6d28d9" />
-
-</div>
-
-<div align="center">
-
 ### 🤝 𝕃𝕖𝕥'𝕤 𝕔𝕠𝕟𝕟𝕖𝕔𝕥 𝕒𝕟𝕕 𝕓𝕦𝕚𝕝𝕕 𝕤𝕠𝕞𝕖𝕥𝕙𝕚𝕟𝕘 𝕞𝕖𝕒𝕟𝕚𝕟𝕘𝕗𝕦𝕝
 
 <a href="https://linkedin.com/in/sabrina-heng-408398243/">
