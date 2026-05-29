@@ -59,18 +59,53 @@
 
 ## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
-𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 &nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td valign="top">
 
-𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
+𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
-𝘽𝙖𝙘𝙠𝙚𝙣𝙙 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙
 
-𝙏𝙤𝙤𝙡𝙨 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 
-𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-20B2AA?style=flat-square&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-8B5CF6?style=flat-square&logoColor=white)
+𝘽𝙖𝙘𝙠𝙚𝙣𝙙
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+
+</td>
+<td valign="top">
+
+𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+𝙏𝙤𝙤𝙡𝙨
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 & 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙖𝙩𝙞𝙤𝙣
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-20B2AA?style=flat-square&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-8B5CF6?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 ---
 ## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
 
