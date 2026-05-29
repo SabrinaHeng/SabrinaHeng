@@ -133,7 +133,7 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
 
-`React Native` `Node.js` `Google Maps API` `Startup`
+`React Native` `Node.js` `Google Maps API`
 <br/><br/>
 
 </td>
