@@ -132,23 +132,25 @@
 
 ## 🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
-<table>
+<table style="border: none; border-collapse: collapse; width: 100%">
 <tr>
-<td width="50%">
-  
-**🚦 𝘕𝘢𝘷𝘈𝘐** 
+<td style="border: none; padding: 8px; width: 50%" valign="top">
+
+**🚦 𝘕𝘢𝘷𝘈𝘐**
+
 > *AI-powered navigation mobile application.*
 
-A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems
+A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems.
 
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
 
 `React Native` `Node.js` `Google Maps API` `Startup`
 
 </td>
-<td width="50%">
-  
+<td style="border: none; padding: 8px; width: 50%" valign="top">
+
 **🧠 𝘕𝘦𝘹𝘴𝘤𝘩𝘰𝘭𝘢𝘳**
+
 > *Academic Research Networking Platform*
 
 A digital collaboration hub connecting students, researchers & industry professionals through **intelligent matching** for research partnerships, conferences, and postgraduate opportunities.
