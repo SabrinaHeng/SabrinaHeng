@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Sabrina Heng
 
-🎓 Computer Science (Data Engineering) Student 
+𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 (𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜) 𝙎𝙩𝙪𝙙𝙚𝙣𝙩
 
 <a href="https://sabrinaheng.github.io/index.html">
   <img src="https://img.shields.io/badge/🌐_Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
