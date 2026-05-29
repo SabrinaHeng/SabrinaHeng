@@ -115,28 +115,13 @@
 </table>
 
 ---
-
-## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
-
-### 🚀 𝙆𝙤𝙤𝙌
-
-**KooQ** is an event management and innovation platform focused on building a **rich dataset of student skills, achievements, and experiences** to power **AI-driven talent and opportunity matching**.
-
-🌟 **We welcome anyone hosting events!** Your events can help us grow a stronger database, which will eventually be used to help **HRs and organizations match students with opportunities using AI**.  
-
-🌐 [Join us and contribute → KooQ](https://kooq.my)  
-
-**Together, let's build a powerful student talent database for the future!**
-
----
-
 ## 🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 <table style="border: none; border-collapse: collapse; width: 100%">
 <tr>
 <td style="border: none; padding: 8px; width: 50%" valign="top">
 
-**🚦 𝘕𝘢𝘷𝘈𝘐**
+### 🚦 𝘕𝘢𝘷𝘈𝘐
 
 > *AI-powered navigation mobile application.*
 
@@ -149,7 +134,7 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 </td>
 <td style="border: none; padding: 8px; width: 50%" valign="top">
 
-**🧠 𝘕𝘦𝘹𝘴𝘤𝘩𝘰𝘭𝘢𝘳**
+### 🧠 𝘕𝘦𝘹𝘴𝘤𝘩𝘰𝘭𝘢𝘳
 
 > *Academic Research Networking Platform*
 
@@ -162,6 +147,20 @@ A digital collaboration hub connecting students, researchers & industry professi
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
+
+**𝙆𝙤𝙤𝙌**
+
+**KooQ** is an event management and innovation platform focused on building a **rich dataset of student skills, achievements, and experiences** to power **AI-driven talent and opportunity matching**.
+
+🌟 **We welcome anyone hosting events!** Your events can help us grow a stronger database, which will eventually be used to help **HRs and organizations match students with opportunities using AI**.  
+
+🌐 [Join us and contribute → KooQ](https://kooq.my)  
+
+**Together, let's build a powerful student talent database for the future!**
 
 ---
 
