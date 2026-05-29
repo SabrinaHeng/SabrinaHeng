@@ -35,10 +35,10 @@
 
 ## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
-**1st Place** — UTM Business Innovation Challenge 2.0
-**Top 8** — ELLM Startup Initiative 2025
-**Consolation Prize** — National Micro Enterprise Pitching Competition
-**CGPA 3.99 / 4.00** — Bachelor of Computer Science (Data Engineering)
+- **1st Place** — UTM Business Innovation Challenge 2.0
+- **Top 8** — ELLM Startup Initiative 2025
+- **Consolation Prize** — National Micro Enterprise Pitching Competition
+- **CGPA 3.99 / 4.00** — Bachelor of Computer Science (Data Engineering)
 
 ---
 
