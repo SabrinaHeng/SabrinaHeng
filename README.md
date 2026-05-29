@@ -191,8 +191,4 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 <br/><br/>
 
-```
-⭐ 𝘈𝘭𝘸𝘢𝘺𝘴 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 · 𝘈𝘭𝘸𝘢𝘺𝘴 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 · 𝘈𝘭𝘸𝘢𝘺𝘴 𝘴𝘩𝘪𝘱𝘱𝘪𝘯𝘨
-```
-
 </div>
