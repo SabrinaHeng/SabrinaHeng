@@ -29,7 +29,7 @@
 ---
 
 ## 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗
-<img align="right" src="https://raw.githubusercontent.com/sabrinaheng/images/200w.gif" width="280" />
+<img align="right" src="https://raw.githubusercontent.com/SabrinaHeng/SabrinaHeng/main/image/200w.gif" width="280" />
 
 ### Universiti Teknologi Malaysia (UTM)
 
