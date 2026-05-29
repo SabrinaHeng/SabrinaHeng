@@ -48,7 +48,7 @@
 - Statistics
 - Agile Project Management
 - Data Structures & Algorithms
-- 
+
 ---
 ## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
@@ -59,9 +59,9 @@
 
 ## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table style="border: none; border-collapse: collapse; width: 100%">
 <tr>
-<td valign="top">
+<td style="border: none; padding: 8px; width: 50%" valign="top">
 
 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
@@ -84,7 +84,7 @@
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 
 </td>
-<td valign="top">
+<td style="border: none; padding: 8px; width: 50%" valign="top">
 
 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚
 
@@ -106,7 +106,9 @@
 </td>
 </tr>
 </table>
+
 ---
+
 ## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
 
 ### 🚀 𝙆𝙤𝙤𝙌
