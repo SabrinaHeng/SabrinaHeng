@@ -33,33 +33,31 @@
 
 ---
 
-## 🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤
+## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
 | 🥇 | **1st Place** — UTM Business Innovation Challenge 2.0 |
-|:---:|---|
 | 🏆 | **Top 8** — ELLM Startup Initiative 2025 |
 | 🎖 | **Consolation Prize** — National Micro Enterprise Pitching Competition |
 | 🎓 | **CGPA 3.99 / 4.00** — Bachelor of Computer Science (Data Engineering) |
 
 ---
 
-## 💻 Tech Stack
+## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
-**Languages**
+𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web Development**
-
+𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Data**
+𝙏𝙤𝙤𝙡𝙨 & 𝘿𝙖𝙩𝙖
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -68,13 +66,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 KooQ
+### 🚀 𝙆𝙤𝙤𝙌
 > *AI-Powered Student Talent Platform*
 
 An event management platform that builds a **rich dataset of student skills, achievements & experiences** — powering AI-driven talent and opportunity matching between students and organizations.
@@ -86,7 +84,7 @@ An event management platform that builds a **rich dataset of student skills, ach
 </td>
 <td width="50%">
 
-### 🧠 Nexscholar
+### 🧠 𝘕𝘦𝘹𝘴𝘤𝘩𝘰𝘭𝘢𝘳
 > *Academic Research Networking Platform*
 
 A digital collaboration hub connecting students, researchers & industry professionals through **intelligent matching** for research partnerships, conferences, and postgraduate opportunities.
@@ -99,7 +97,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 
 <div align="center">
 
@@ -114,7 +112,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 
 <div align="center">
 
-### 🤝 Let's connect and build something meaningful
+### 🤝 𝕃𝕖𝕥'𝕤 𝕔𝕠𝕟𝕟𝕖𝕔𝕥 𝕒𝕟𝕕 𝕓𝕦𝕚𝕝𝕕 𝕤𝕠𝕞𝕖𝕥𝕙𝕚𝕟𝕘 𝕞𝕖𝕒𝕟𝕚𝕟𝕘𝕗𝕦𝕝
 
 <a href="https://linkedin.com/in/sabrina-heng-408398243/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -132,7 +130,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 <br/><br/>
 
 ```
-⭐ Always learning · Always building · Always shipping
+⭐ 𝘈𝘭𝘸𝘢𝘺𝘴 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 · 𝘈𝘭𝘸𝘢𝘺𝘴 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 · 𝘈𝘭𝘸𝘢𝘺𝘴 𝘴𝘩𝘪𝘱𝘱𝘪𝘯𝘨
 ```
 
 </div>
