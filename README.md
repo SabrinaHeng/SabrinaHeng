@@ -135,6 +135,4 @@ A digital collaboration hub connecting students, researchers & industry professi
 ⭐ Always learning · Always building · Always shipping
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=sabrinaheng&color=20b2aa&style=flat-square&label=profile+views)
-
 </div>
