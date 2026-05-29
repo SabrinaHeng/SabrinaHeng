@@ -59,9 +59,9 @@
 
 ## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
 
-<table style="border: none; border-collapse: collapse; width: 100%">
+<table style="border: none; border-collapse: collapse; width: 100">
 <tr>
-<td style="border: none; padding: 8px; width: 50%" valign="top">
+<td style="border: none; padding: 8; width: 50" valign="top">
 
 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
@@ -90,7 +90,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 </td>
-<td style="border: none; padding: 8px; width: 50%" valign="top">
+<td style="border: none; padding: 8; width: 50" valign="top">
 
 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚
 
