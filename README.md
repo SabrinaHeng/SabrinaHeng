@@ -169,7 +169,6 @@ A comprehensive website for Koperasi Kakitangan KADA to streamline member regist
 </td>
 </tr>
 </table>
----
 
 ## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 - 𝙺𝚘𝚘𝚀
 
