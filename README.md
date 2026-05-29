@@ -136,13 +136,12 @@
 <tr>
 <td width="50%">
 
-### 🚦 [𝘕𝘢𝘷𝘈𝘐](https://github.com/MahWilson/DeepLLM)
+### 🚦 𝘕𝘢𝘷𝘈𝘐
 > *AI-powered navigation mobile application.*
 
 A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems
 
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
-
 `React Native` `Node.js` `Google Maps API` `Startup`
 
 </td>
@@ -153,6 +152,7 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 
 A digital collaboration hub connecting students, researchers & industry professionals through **intelligent matching** for research partnerships, conferences, and postgraduate opportunities.
 
+**→ [Nexscholar](https://nexscholar.com/)**
 `Laravel` `React` `Inertia.js` `AI` `MySQL`
 
 </td>
