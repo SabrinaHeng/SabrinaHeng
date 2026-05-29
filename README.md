@@ -127,10 +127,11 @@
 > *AI-powered navigation mobile application.*
 
 A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems.
+<br/>
+<br/>
+
 
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
-<br/>
-<br/>
 
 `React Native` `Node.js` `Google Maps API` `Startup`
 <br/><br/>
