@@ -6,18 +6,6 @@
 💻 Full Stack Developer | Technopreneur | Problem Solver  
 
 ---
-
-## 👩‍💻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 🇲🇾 Malaysian girl from Melaka  
-- 🎓 Studying **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM)  
-- 💡 Passionate about **programming, AI, and building real-world applications**  
-- 🚀 Interested in **Data Engineering, AI systems, and Full Stack Development**  
-- 📚 Enjoy learning new technologies and building meaningful projects  
-
----
-
-
 <a href="https://sabrinaheng.github.io/index.html">
   <img src="https://img.shields.io/badge/🌐_Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
 </a>
@@ -34,6 +22,15 @@
 </div>
 
 ---
+
+## 👩‍💻𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+- 🇲🇾 Malaysian girl from Melaka  
+- 🎓 Studying **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM)  
+- 💡 Passionate about **programming, AI, and building real-world applications**  
+- 🚀 Interested in **Data Engineering, AI systems, and Full Stack Development**  
+- 📚 Enjoy learning new technologies and building meaningful projects  
+
 ---
 
 ## 🏆 Achievements
