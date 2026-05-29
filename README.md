@@ -121,7 +121,7 @@
 <tr>
 <td style="border: none; padding: 8; width: 50" valign="top">
 
-**🚦 𝘕𝘢𝘷𝘈𝘐**
+### 🚦 𝘕𝘢𝘷𝘈𝘐
 
 > *AI-powered navigation mobile application.*
 
@@ -130,9 +130,10 @@ A navigation mobile app with real-time routing, traffic updates and voice comman
 **→ [NavAI](https://github.com/MahWilson/DeepLLM)**
 
 `React Native` `Node.js` `Google Maps API` `Startup`
+<br/><br/>
 
 </td>
-<td style="border: none; padding: 8px; width: 50%" valign="top">
+<td style="border: none; padding: 8; width: 50" valign="top">
 
 ### 🧠 𝘕𝘦𝘹𝘴𝘤𝘩𝘰𝘭𝘢𝘳
 
@@ -143,6 +144,7 @@ A digital collaboration hub connecting students, researchers & industry professi
 **→ [Nexscholar](https://nexscholar.com/)**
 
 `Laravel` `React` `Inertia.js` `AI` `MySQL`
+<br/><br/>
 
 </td>
 </tr>
