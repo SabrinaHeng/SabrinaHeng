@@ -23,20 +23,39 @@
 ## 👩‍💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🇲🇾 Malaysian girl from Melaka  
-- 🎓 Studying **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM)  
+- 🎓 **Bachelor of Computer Science (Data Engineering)** at Universiti Teknologi Malaysia (UTM)  
 - 💡 Passionate about **programming, AI, and building real-world applications**  
-- 🚀 Interested in **Data Engineering, AI systems, and Full Stack Development**  
 - 📚 Enjoy learning new technologies and building meaningful projects  
 
 ---
+
+## 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗
+
+## Universiti Teknologi Malaysia (UTM)
+
+**Bachelor of Computer Science (Data Engineering)**
+
+📍 Johor Bahru, Johor
+
+- CGPA: **3.99 / 4.00**
+- Expected Graduation: August 2027
+
+### Relevant Coursework
+
+- Data Analytics Programming
+- Database Systems
+- Web Development
+- Application Development
+- Object-Oriented Programming
+- Statistics
+- Agile Project Management
+- Data Structures & Algorithms
 
 ## 🏆 𝙰𝚌𝚑𝚒𝚎𝚟𝚎𝚖𝚎𝚗𝚝𝚜
 
 - **1st Place** — UTM Business Innovation Challenge 2.0
 - **Top 8** — ELLM Startup Initiative 2025
 - **Consolation Prize** — National Micro Enterprise Pitching Competition
-- **CGPA 3.99 / 4.00** — Bachelor of Computer Science (Data Engineering)
-
 ---
 
 ## 💻 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
@@ -45,22 +64,51 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩
+𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
 
-𝙏𝙤𝙤𝙡𝙨 & 𝘿𝙖𝙩𝙖
+𝘽𝙖𝙘𝙠𝙚𝙣𝙙
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+
+𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+𝙏𝙤𝙤𝙡𝙨
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨 & 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙖𝙩𝙞𝙤𝙣
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-20B2AA?style=flat-square&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-8B5CF6?style=flat-square&logoColor=white)
+
+---
+## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙
+
+### 🚀 𝙆𝙤𝙤𝙌
+
+**KooQ** is an event management and innovation platform focused on building a **rich dataset of student skills, achievements, and experiences** to power **AI-driven talent and opportunity matching**.
+
+🌟 **We welcome anyone hosting events!** Your events can help us grow a stronger database, which will eventually be used to help **HRs and organizations match students with opportunities using AI**.  
+
+🌐 [Join us and contribute → KooQ](https://kooq.my)  
+
+**Together, let's build a powerful student talent database for the future!**
 
 ---
 
@@ -70,14 +118,14 @@
 <tr>
 <td width="50%">
 
-### 🚀 𝙆𝙤𝙤𝙌
-> *AI-Powered Student Talent Platform*
+### 🚦 𝘕𝘢𝘷𝘈𝘐
+> *AI-powered navigation mobile application.*
 
-An event management platform that builds a **rich dataset of student skills, achievements & experiences** — powering AI-driven talent and opportunity matching between students and organizations.
+A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems
 
 **→ [kooq.my](https://kooq.my)**
 
-`AI Matching` `Data Platform` `EdTech` `Startup`
+`React Native` `Node.js` `Google Maps API` `Startup`
 
 </td>
 <td width="50%">
@@ -120,9 +168,6 @@ A digital collaboration hub connecting students, researchers & industry professi
 </a>
 <a href="https://facebook.com/sabrina.heng.14">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://sabrinaheng.github.io/index.html">
-  <img src="https://img.shields.io/badge/Portfolio-20b2aa?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
