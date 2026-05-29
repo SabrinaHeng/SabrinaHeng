@@ -5,7 +5,6 @@
 🎓 Computer Science (Data Engineering) Student  
 💻 Full Stack Developer | Technopreneur | Problem Solver  
 
----
 <a href="https://sabrinaheng.github.io/index.html">
   <img src="https://img.shields.io/badge/🌐_Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
 </a>
@@ -20,8 +19,6 @@
 </a>
 
 </div>
-
----
 
 ## 👩‍💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
