@@ -136,7 +136,7 @@
 <tr>
 <td width="50%">
 
-### 🚦 𝘕𝘢𝘷𝘈𝘐
+### 🚦 [𝘕𝘢𝘷𝘈𝘐](https://github.com/MahWilson/DeepLLM)
 > *AI-powered navigation mobile application.*
 
 A navigation mobile app with real-time routing, traffic updates and voice command functionality to solve traffic problems
