@@ -5,16 +5,13 @@
 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 (𝘿𝙖𝙩𝙖 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜) 𝙎𝙩𝙪𝙙𝙚𝙣𝙩
 
 <a href="https://sabrinaheng.github.io/index.html">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Portfolio-sabrinaheng.github.io-20b2aa?style=for-the-badge&labelColor=0d1117" />
 </a>
 <a href="mailto:sabrinaheng115@gmail.com">
   <img src="https://img.shields.io/badge/📬_Email-sabrinaheng115@gmail.com-8b5cf6?style=for-the-badge&labelColor=0d1117" />
 </a>
 <a href="https://linkedin.com/in/sabrina-heng-408398243/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://kooq.my">
-  <img src="https://img.shields.io/badge/🚀_KooQ-kooq.my-f97316?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 </div>
