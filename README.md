@@ -167,6 +167,35 @@ A comprehensive website for Koperasi Kakitangan KADA to streamline member regist
 
 </td>
 </tr>
+
+<tr>
+<td style="border: none; padding: 8; width: 50" valign="top">
+
+### ☁️ Azure Data Engineering Pipeline
+
+> *End-to-End ETL Pipeline with Medallion Architecture*
+
+Designed and implemented a cloud-based data engineering pipeline using the Medallion Architecture (Bronze, Silver, and Gold layers) for scalable data processing and analytics.
+
+#### Key Features
+
+- End-to-end ETL pipeline using Azure Data Factory and Azure Databricks
+- Data transformation across Bronze, Silver, and Gold layers
+- Data storage and analytics using Azure Synapse
+- Interactive Power BI dashboards for business insights and performance monitoring
+- Scalable cloud architecture for efficient data processing
+
+**→ [Azure Data Engineering Pipeline](YOUR_REPOSITORY_LINK)**
+
+`Azure Data Factory` `Databricks` `Azure Synapse` `Power BI`
+
+<br/><br/>
+
+</td>
+<td style="border: none; padding: 8; width: 50" valign="top">
+
+</td>
+</tr>
 </table>
 
 ## 🚀 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 - 𝙺𝚘𝚘𝚀
