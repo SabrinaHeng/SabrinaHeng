@@ -187,9 +187,6 @@ Designed and implemented a cloud-based data engineering pipeline using the Medal
 <br/><br/>
 
 </td>
-<td style="border: none; padding: 8; width: 50" valign="top">
-
-</td>
 </tr>
 </table>
 
