@@ -172,15 +172,7 @@ A comprehensive website for Koperasi Kakitangan KADA to streamline member regist
 
 Designed and implemented a cloud-based data engineering pipeline using the Medallion Architecture (Bronze, Silver, and Gold layers) for scalable data processing and analytics.
 
-#### Key Features
-
-- End-to-end ETL pipeline using Azure Data Factory and Azure Databricks
-- Data transformation across Bronze, Silver, and Gold layers
-- Data storage and analytics using Azure Synapse
-- Interactive Power BI dashboards for business insights and performance monitoring
-- Scalable cloud architecture for efficient data processing
-
-**→ [Azure Data Engineering Pipeline](YOUR_REPOSITORY_LINK)**
+**→ [Azure Data Engineering Pipeline](https://github.com/SabrinaHeng/UTM_CourseWork/tree/main/Year%203/Sem%202/Special%20Topic%20Data%20Engineering/Tutorial%201)**
 
 `Azure Data Factory` `Databricks` `Azure Synapse` `Power BI`
 
