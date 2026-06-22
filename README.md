@@ -163,9 +163,6 @@ A comprehensive website for Koperasi Kakitangan KADA to streamline member regist
 <br/><br/>
 
 </td>
-<td style="border: none; padding: 8; width: 50" valign="top">
-
-</td>
 
 <td style="border: none; padding: 8; width: 50" valign="top">
 
