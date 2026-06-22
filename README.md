@@ -166,9 +166,7 @@ A comprehensive website for Koperasi Kakitangan KADA to streamline member regist
 <td style="border: none; padding: 8; width: 50" valign="top">
 
 </td>
-</tr>
 
-<tr>
 <td style="border: none; padding: 8; width: 50" valign="top">
 
 ### ☁️ Azure Data Engineering Pipeline
